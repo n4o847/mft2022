@@ -276,10 +276,10 @@
 <vertex x="37.2" y="20.9"/>
 <vertex x="37.3" y="21"/>
 </polygon>
-<hole x="3" y="3" drill="2.2"/>
-<hole x="3" y="27" drill="2.2"/>
-<hole x="67" y="27" drill="2.2"/>
-<hole x="67" y="3" drill="2.2"/>
+<hole x="3" y="3" drill="3.2"/>
+<hole x="3" y="27" drill="3.2"/>
+<hole x="67" y="27" drill="3.2"/>
+<hole x="67" y="3" drill="3.2"/>
 <polygon width="0.762" layer="41">
 <vertex x="61.2" y="13"/>
 <vertex x="61.2" y="10.4"/>
